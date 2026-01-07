@@ -1,0 +1,26 @@
+ticker,name,market,locale,primary_exchange,type,active,currency_name,composite_figi,share_class_figi,last_updated_utc
+A,Agilent Technologies Inc.,stocks,us,XNYS,CS,True,usd,BBG000C2V3D6,BBG001SCTQY4,2026-01-07T07:06:29.952931148Z
+AA,Alcoa Corporation,stocks,us,XNYS,CS,True,usd,BBG00B3T3HD3,BBG00B3T3HF1,2026-01-07T07:06:29.9529323Z
+AAA,Alternative Access First Priority CLO Bond ETF,stocks,us,ARCX,ETF,True,usd,BBG01B0JRCS6,BBG01B0JRCT5,2026-01-07T07:06:29.952932451Z
+AAAA,Amplius Aggressive Asset Allocation ETF,stocks,us,BATS,ETF,True,usd,BBG01W275XX6,BBG01W275ZB5,2026-01-07T07:06:29.952932721Z
+AAAC,Columbia AAA CLO ETF,stocks,us,ARCX,ETF,True,usd,BBG01YZNRVY0,BBG01YZNRWV1,2026-01-07T07:06:29.952932841Z
+AAAU,Goldman Sachs Physical Gold ETF Shares,stocks,us,BATS,ETF,True,usd,BBG00LPXX872,BBG00LPXX8Z1,2026-01-07T07:06:29.952933503Z
+AACB,Artius II Acquisition Inc. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,,,2026-01-07T07:06:29.952933773Z
+AACBR,Artius II Acquisition Inc. Rights,stocks,us,XNAS,RIGHT,True,usd,,,2026-01-07T07:06:29.952933883Z
+AACBU,Artius II Acquisition Inc. Units,stocks,us,XNAS,UNIT,True,usd,,,2026-01-07T07:06:29.952934003Z
+AACG,ATA Creativity Global American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,BBG000V2S3P6,BBG001T125S9,2026-01-07T07:06:29.952934154Z
+AADR,AdvisorShares Dorsey Wright ADR ETF,stocks,us,XNAS,ETF,True,usd,BBG000BDYRW6,BBG001T9B1Y4,2026-01-07T07:06:29.952934334Z
+AAEQ,Alpha Architect US Equity 2 ETF,stocks,us,XNAS,ETF,True,usd,BBG01YY0GN44,BBG01YY0GP12,2026-01-07T07:06:29.952934454Z
+AAL,American Airlines Group Inc.,stocks,us,XNAS,CS,True,usd,BBG005P7Q881,BBG005P7Q907,2026-01-07T07:06:29.952934565Z
+AALG,Leverage Shares 2X Long AAL Daily ETF,stocks,us,XNAS,ETF,True,usd,BBG01VH49P35,BBG01VH49Q06,2026-01-07T07:06:29.952934695Z
+AAM,AA Mission Acquisition Corp.,stocks,us,XNYS,CS,True,usd,,,2026-01-07T07:06:29.952934815Z
+AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",stocks,us,XNYS,UNIT,True,usd,,,2026-01-07T07:06:29.952934935Z
+AAM.WS,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",stocks,us,XNYS,WARRANT,True,usd,,,2026-01-07T07:06:29.952935266Z
+AAME,Atlantic American Corp,stocks,us,XNAS,CS,True,usd,BBG000B9XB24,BBG001S5N8T1,2026-01-07T07:06:29.952935386Z
+AAMI,Acadian Asset Management Inc.,stocks,us,XNYS,CS,True,usd,BBG00P2HLNY3,BBG00P2HLNZ2,2026-01-07T07:06:29.952935496Z
+AAOI,"Applied Optoelectronics, Inc.",stocks,us,XNAS,CS,True,usd,BBG000D6VW15,BBG001SG47G4,2026-01-07T07:06:29.952935617Z
+AAON,Aaon Inc,stocks,us,XNAS,CS,True,usd,BBG000C2LZP3,BBG001S6CZK0,2026-01-07T07:06:29.952935737Z
+AAP,ADVANCE AUTO PARTS INC,stocks,us,XNYS,CS,True,usd,BBG000F7RCJ1,BBG001SD2SB2,2026-01-07T07:06:29.952936328Z
+AAPB,GraniteShares ETF Trust GraniteShares 2x Long AAPL Daily ETF,stocks,us,XNAS,ETF,True,usd,BBG0193F21N2,BBG0193F22H7,2026-01-07T07:06:29.952936458Z
+AAPD,Direxion Daily AAPL Bear 1X Shares,stocks,us,XNAS,ETF,True,usd,BBG0193YGJ57,BBG0193YGK09,2026-01-07T07:06:29.952936598Z
+AAPG,Ascentage Pharma Group International American Depository Shares,stocks,us,XNAS,ADRC,True,usd,BBG01RJXM9C9,BBG01RJXMB89,2026-01-07T07:06:29.952936719Z
