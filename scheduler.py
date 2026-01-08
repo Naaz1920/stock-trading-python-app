@@ -1,5 +1,6 @@
 import schedule
 import time
+import sys
 from script import run_stock_job
 
 from datetime import datetime
@@ -16,5 +17,5 @@ schedule.every().minute.do(run_stock_job)
 
 while True:
     schedule.run_pending()
-    time.slepp(1)
-
+    time.sleep(1)
+    sys.exit(0)
